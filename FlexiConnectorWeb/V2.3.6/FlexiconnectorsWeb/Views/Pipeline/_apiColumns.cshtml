@@ -1,0 +1,54 @@
+﻿@model Connection
+@{
+
+}
+<style></style>
+<div class="modal" tabindex="-1" role="dialog" id="apiColumn_Popup" aria-hidden="true">
+    <div class="modal-dialog modal-md" role="dialog">
+        <div class="modal-content" style="width: 75%;left: 0%;box-shadow:0 0 8px 8px rgba(153, 153, 153, 0.8) !important">
+            <div class="modal-body" style="margin-top: -15%;margin-left: 3%;margin-right: 3%;">
+                <div class="row">
+                    <h4 style="font-size: 15px;text-align: center;color: #1a9950;font-weight: 600;">API Column</h4>
+                </div>
+                <div class="row">
+                    <label class="form-label">Serial No</label>
+                    <input class="form-control" type="text" id="txt_pplapifield_gid" name="txt_pplapifield_gid" style="display:none" />
+                    <input class="form-control" type="number" id="txt_apiserialno" name="txt_serialno" min="1" oninput="validateNumberInput(this,'serialno')" />
+                </div>
+                <div class="row">
+                    <label class="form-label">Column Name </label>
+                    <input class="form-control" type="text" id="txt_apicolumnname" name="txt_columnname" />
+                </div>
+                <div class="row">
+                    <label class="form-label">Data Type</label>
+                    @* <input class="form-control" type="text" id="txt_csvcol_datatype" name="txt_csvcol_datatype" /> *@
+                    <select class="form-control" id="drp_apicol_datatype" name="drp_apicol_datatype" style="width:100%;height:25%">
+                        <option value="-- Select --">-- Select --</option>
+                        <option value="TEXT">TEXT</option>
+                        <option value="INTEGER">INTEGER</option>
+                        <option value="DATE">DATE</option>
+                        <option value="DATETIME">DATETIME</option>
+                        <option value="NUMERIC">NUMERIC</option>
+                    </select>
+                </div>
+                <div class="row">
+                    <div class="col-sm-3">
+                    </div>
+                    <div class="col-sm-3"> </div>
+                    <div class="col-sm-6" style="margin-top: 2%;text-align: right; display:flex;">
+						<input style="float: right;margin-top: 0%;" type="button" id="api_cancel" onclick="CloseApiColumns()" class="cancel action-button-previous" value="Cancel" />
+                        <input style="float: right;margin-right: 0%;" type="button" id='btn_saveApiColumns' onclick="saveApiColumns()" class="save" value="Save" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function CloseApiColumns() {
+        $("#apiColumn_Popup").hide();
+    }
+
+
+
+</script>

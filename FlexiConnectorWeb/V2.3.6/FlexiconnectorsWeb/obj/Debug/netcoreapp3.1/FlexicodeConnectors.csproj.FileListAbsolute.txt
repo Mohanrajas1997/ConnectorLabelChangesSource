@@ -1,0 +1,1156 @@
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.AssemblyReference.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfoInputs.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfo.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CoreCompileInputs.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Manifest.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.input.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.output.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorCoreGenerate.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\Connectors.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.exe
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.deps.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.dev.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.genruntimeconfig.cache
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CopyComplete
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\libman.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-be.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-codes.json
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\StartupConnectors.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorDetails.cshtml.g.cs
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.FontIcons.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.SvgIcons.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-AE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-BH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DJ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DZ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-EG\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-ER\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IQ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-JO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KW\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LB\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-OM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-PS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-QA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-YE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\bg-BG\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs-CZ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\da-DK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-AT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-DE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-LI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\el-GR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-AU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-CA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-GB\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-AR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-BO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-DO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-EC\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-ES\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-GT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-HN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-MX\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-NI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-US\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-UY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-VE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fa-IR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fi-FI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-BE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-FR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-HT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-LU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MC\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-ML\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-SN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\he-IL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hr-HR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hu-HU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hy-AM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-IT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja-JP\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\mk-MK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nb-NO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-BE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-NL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl-PL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-PT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ro-RO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru-RU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sk-SK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sq-AL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sr-Latn-RS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sv-SE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr-TR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\uk-UA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\vi-VN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-CN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-HK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-TW\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-be.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-codes.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\libman.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.exe
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.deps.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.dev.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.FontIcons.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.SvgIcons.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-AE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-BH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DJ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DZ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-EG\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-ER\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IQ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-JO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KW\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LB\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-OM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-PS\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-QA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SD\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SS\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TD\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-YE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\bg-BG\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs-CZ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\da-DK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-AT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-CH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-DE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-LI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\el-GR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-AU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-CA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-GB\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-AR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-BO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-DO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-EC\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-ES\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-GT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-HN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-MX\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-NI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-US\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-UY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-VE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fa-IR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fi-FI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-BE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CD\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-FR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-HT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-LU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MC\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-ML\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-SN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\he-IL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hr-HR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hu-HU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hy-AM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-CH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-IT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja-JP\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\mk-MK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nb-NO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-BE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-NL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl-PL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-PT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ro-RO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru-RU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sk-SK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sq-AL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sr-Latn-RS\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sv-SE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr-TR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\uk-UA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\vi-VN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-CN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-HK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-TW\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.AssemblyReference.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfoInputs.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CoreCompileInputs.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Manifest.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Pack.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FlexicodeConnectors.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FlexicodeConnectors.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FlexicodeConnectors.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FlexicodeConnectors.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.input.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.output.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorCoreGenerate.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorDetails.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\Connectors.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\StartupConnectors.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CopyComplete
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.genruntimeconfig.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-be.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-codes.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\libman.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.exe
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.deps.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.dev.json
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.FontIcons.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.SvgIcons.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-AE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-BH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DJ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DZ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-EG\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-ER\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IQ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-JO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KW\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LB\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-OM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-PS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-QA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-YE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\bg-BG\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs-CZ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\da-DK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-AT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-DE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-LI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\el-GR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-AU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-CA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-GB\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-AR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-BO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-DO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-EC\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-ES\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-GT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-HN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-MX\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-NI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-US\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-UY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-VE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fa-IR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fi-FI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-BE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-FR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-HT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-LU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MC\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-ML\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-SN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\he-IL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hr-HR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hu-HU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hy-AM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-IT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja-JP\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\mk-MK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nb-NO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-BE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-NL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl-PL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-PT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ro-RO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru-RU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sk-SK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sq-AL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sr-Latn-RS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sv-SE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr-TR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\uk-UA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\vi-VN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-CN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-HK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-TW\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.AssemblyReference.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfoInputs.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfo.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CoreCompileInputs.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Manifest.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.input.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.output.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorCoreGenerate.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorDetails.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\Connectors.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\StartupConnectors.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cache
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cs
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CopyComplete
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Connectors WEB\30-06-2023_v2\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.genruntimeconfig.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-be.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-codes.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\libman.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.exe
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.deps.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.dev.json
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.FontIcons.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.SvgIcons.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-AE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-BH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DJ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DZ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-EG\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-ER\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IQ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-JO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KW\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LB\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-OM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-PS\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-QA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SD\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SS\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TD\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-YE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\bg-BG\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs-CZ\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\da-DK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-AT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-CH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-DE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-LI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\el-GR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-AU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-CA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-GB\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-AR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-BO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-DO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-EC\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-ES\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-GT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-HN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-MX\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-NI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-US\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-UY\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-VE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fa-IR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fi-FI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-BE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CD\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CI\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-FR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-HT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-LU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MC\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-ML\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-SN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\he-IL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hr-HR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hu-HU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hy-AM\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-CH\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-IT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja-JP\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\mk-MK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nb-NO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-BE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-NL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl-PL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-PT\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ro-RO\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru-RU\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sk-SK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sq-AL\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sr-Latn-RS\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sv-SE\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr-TR\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\uk-UA\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\vi-VN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-CN\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-HK\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-TW\Kendo.Mvc.resources.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.AssemblyReference.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfoInputs.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CoreCompileInputs.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Manifest.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Pack.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FlexicodeConnectors.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FlexicodeConnectors.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FlexicodeConnectors.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FlexicodeConnectors.props
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.input.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.output.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorCoreGenerate.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorDetails.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\Connectors.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\StartupConnectors.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cache
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cs
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CopyComplete
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\DMSdinesh\Connectors\mohanconnectors\New folder\New folder\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.genruntimeconfig.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-be.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Content\css\plugins\input-mask\phone-codes\phone-codes.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\libman.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.exe
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.deps.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.dev.json
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.FontIcons.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Telerik.SvgIcons.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\Kendo.Mvc.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-AE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-BH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DJ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-DZ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-EG\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-ER\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-IQ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-JO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-KW\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LB\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-LY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-MR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-OM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-PS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-QA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-SY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-TN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ar-YE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\bg-BG\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\cs-CZ\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\da-DK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-AT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-DE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\de-LI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\el-GR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-AU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-CA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\en-GB\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-AR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-BO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-CR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-DO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-EC\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-ES\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-GT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-HN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-MX\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-NI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-PY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-US\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-UY\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\es-VE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fa-IR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fi-FI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-BE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CD\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CI\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-CM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-FR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-HT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-LU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-MC\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-ML\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\fr-SN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\he-IL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hr-HR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hu-HU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\hy-AM\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-CH\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\it-IT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ja-JP\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\mk-MK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nb-NO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-BE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\nl-NL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pl-PL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-BR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\pt-PT\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ro-RO\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\ru-RU\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sk-SK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sq-AL\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sr-Latn-RS\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\sv-SE\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\tr-TR\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\uk-UA\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\vi-VN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-CN\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-HK\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\bin\Debug\netcoreapp3.1\zh-TW\Kendo.Mvc.resources.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.AssemblyReference.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfoInputs.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfo.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CoreCompileInputs.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Manifest.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Pack.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FlexicodeConnectors.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FlexicodeConnectors.props
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FlexicodeConnectors.props
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FlexicodeConnectors.props
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.input.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.output.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorCoreGenerate.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorDetails.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorsList.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\StartupConnectors.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\PipelineList.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\PipelineNew.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cache
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cs
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CopyComplete
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Connectors WEB\04-07-2023\FlexicodeConnectors\FlexicodeConnectors\obj\Debug\netcoreapp3.1\FlexicodeConnectors.genruntimeconfig.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\libman.json
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.exe
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.deps.json
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.json
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.dev.json
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Aqua.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Aqua.Newtonsoft.Json.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Remote.Linq.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Remote.Linq.Newtonsoft.Json.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.AssemblyReference.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfoInputs.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfo.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CoreCompileInputs.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Manifest.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Pack.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FlexicodeConnectors.Microsoft.AspNetCore.StaticWebAssets.props
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FlexicodeConnectors.props
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FlexicodeConnectors.props
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FlexicodeConnectors.props
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.input.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.output.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorCoreGenerate.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorDetails.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorsList.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\StartupConnectors.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\PipelineList.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\PipelineNew.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cs
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CopyComplete
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.genruntimeconfig.cache
+D:\user\hema\Connectors\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\libman.json
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.exe
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.deps.json
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.json
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.runtimeconfig.dev.json
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Aqua.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Aqua.Newtonsoft.Json.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\BouncyCastle.Cryptography.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Enums.NET.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\EPPlus.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\EPPlus.Interfaces.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\EPPlus.System.Drawing.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\NPOI.Core.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Remote.Linq.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\Remote.Linq.Newtonsoft.Json.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\SixLabors.Fonts.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\SixLabors.ImageSharp.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Xml.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.AssemblyReference.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfoInputs.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.AssemblyInfo.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CoreCompileInputs.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.MvcApplicationPartsAssemblyInfo.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorAssemblyInfo.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Manifest.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\FlexicodeConnectors.StaticWebAssets.Pack.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.FlexicodeConnectors.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.FlexicodeConnectors.props
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.FlexicodeConnectors.props
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.FlexicodeConnectors.props
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.input.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.TagHelpers.output.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorCoreGenerate.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorDetails.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\ConnectorsList.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Connectors\StartupConnectors.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\EditorTemplates\DataCleansing.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\EditorTemplates\DataProcessing.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\EditorTemplates\View.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\PipelineList.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\PipelineNew.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Pipeline\PipelineNew_old.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cache
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.RazorTargetAssemblyInfo.cs
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.Views.pdb
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.csproj.CopyComplete
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.dll
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.pdb
+D:\Mohan\Gitlab\Github\FlexiconnectorsWeb\obj\Debug\netcoreapp3.1\FlexicodeConnectors.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorApi\\V2.3.6\\FlexiconnectorsApi\\FlexiconnectorsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70241242-48E4-4E7B-9834-CA0D1EFBD6F7}|MysqlEfCoreDemo.csproj|d:\\hema\\apollo hosted source (ap \u0026 cit)\\label changes latest source\\flexiconnectorapi\\v2.3.6\\flexiconnectorsapi\\flexiconnectorsapi\\controllers\\pipelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70241242-48E4-4E7B-9834-CA0D1EFBD6F7}|MysqlEfCoreDemo.csproj|solutionrelative:controllers\\pipelinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70241242-48E4-4E7B-9834-CA0D1EFBD6F7}|MysqlEfCoreDemo.csproj|d:\\hema\\apollo hosted source (ap \u0026 cit)\\label changes latest source\\flexiconnectorapi\\v2.3.6\\flexiconnectorsapi\\flexiconnectorsapi\\controllers\\connectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70241242-48E4-4E7B-9834-CA0D1EFBD6F7}|MysqlEfCoreDemo.csproj|solutionrelative:controllers\\connectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70241242-48E4-4E7B-9834-CA0D1EFBD6F7}|MysqlEfCoreDemo.csproj|d:\\hema\\apollo hosted source (ap \u0026 cit)\\label changes latest source\\flexiconnectorapi\\v2.3.6\\flexiconnectorsapi\\flexiconnectorsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70241242-48E4-4E7B-9834-CA0D1EFBD6F7}|MysqlEfCoreDemo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectorController.cs",
+              "DocumentMoniker": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorApi\\V2.3.6\\FlexiconnectorsApi\\FlexiconnectorsApi\\Controllers\\ConnectorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConnectorController.cs",
+              "ToolTip": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorApi\\V2.3.6\\FlexiconnectorsApi\\FlexiconnectorsApi\\Controllers\\ConnectorController.cs",
+              "RelativeToolTip": "Controllers\\ConnectorController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwGoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T09:49:00.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorApi\\V2.3.6\\FlexiconnectorsApi\\FlexiconnectorsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorApi\\V2.3.6\\FlexiconnectorsApi\\FlexiconnectorsApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T07:12:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PipelineController.cs",
+              "DocumentMoniker": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorApi\\V2.3.6\\FlexiconnectorsApi\\FlexiconnectorsApi\\Controllers\\PipelineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PipelineController.cs",
+              "ToolTip": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorApi\\V2.3.6\\FlexiconnectorsApi\\FlexiconnectorsApi\\Controllers\\PipelineController.cs",
+              "RelativeToolTip": "Controllers\\PipelineController.cs",
+              "ViewState": "AgIAAIQGAAAAAAAAAAD4v4gGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:40:20.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

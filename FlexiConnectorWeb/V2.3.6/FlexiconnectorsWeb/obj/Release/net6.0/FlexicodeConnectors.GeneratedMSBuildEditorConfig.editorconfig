@@ -1,0 +1,129 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FlexicodeConnectors
+build_property.RootNamespace = FlexicodeConnectors
+build_property.ProjectDir = D:\Hema\Apollo Hosted Source (AP & CIT)\Label Changes latest source\FlexiConnectorWeb\V2.3.6\FlexiconnectorsWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Hema\Apollo Hosted Source (AP & CIT)\Label Changes latest source\FlexiConnectorWeb\V2.3.6\FlexiconnectorsWeb
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Connectors/ConnectorDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yc1xDb25uZWN0b3JEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Connectors/ConnectorsList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yc1xDb25uZWN0b3JzTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Connectors/StartupConnectors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29ubmVjdG9yc1xTdGFydHVwQ29ubmVjdG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/EditorTemplates/DataCleansing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcRWRpdG9yVGVtcGxhdGVzXERhdGFDbGVhbnNpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/EditorTemplates/DataProcessing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcRWRpdG9yVGVtcGxhdGVzXERhdGFQcm9jZXNzaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/EditorTemplates/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcRWRpdG9yVGVtcGxhdGVzXFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/PipelineList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcUGlwZWxpbmVMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/PipelineNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcUGlwZWxpbmVOZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/PipelineNew_old.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcUGlwZWxpbmVOZXdfb2xkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_apiColumns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX2FwaUNvbHVtbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_csvColumns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX2NzdkNvbHVtbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_dataProcessinglist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX2RhdGFQcm9jZXNzaW5nbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_dataProcessingrules.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX2RhdGFQcm9jZXNzaW5ncnVsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_datasetClone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX2RhdGFzZXRDbG9uZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_importURL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX2ltcG9ydFVSTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_predataset.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX3ByZWRhdGFzZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_schedulerexpression.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX3NjaGVkdWxlcmV4cHJlc3Npb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Pipeline/_setValues.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGlwZWxpbmVcX3NldFZhbHVlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Report/ImportedFileInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XEltcG9ydGVkRmlsZUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Report/PipelineDatasetInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVwb3J0XFBpcGVsaW5lRGF0YXNldEluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Hema/Apollo Hosted Source (AP & CIT)/Label Changes latest source/FlexiConnectorWeb/V2.3.6/FlexiconnectorsWeb/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

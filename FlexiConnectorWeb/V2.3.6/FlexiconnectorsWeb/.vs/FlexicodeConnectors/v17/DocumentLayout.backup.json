@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorWeb\\V2.3.6\\FlexiconnectorsWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1006B8F-4E42-492B-A7B0-9264305EA997}|FlexicodeConnectors.csproj|d:\\hema\\apollo hosted source (ap \u0026 cit)\\label changes latest source\\flexiconnectorweb\\v2.3.6\\flexiconnectorsweb\\views\\connectors\\connectordetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B1006B8F-4E42-492B-A7B0-9264305EA997}|FlexicodeConnectors.csproj|solutionrelative:views\\connectors\\connectordetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1006B8F-4E42-492B-A7B0-9264305EA997}|FlexicodeConnectors.csproj|d:\\hema\\apollo hosted source (ap \u0026 cit)\\label changes latest source\\flexiconnectorweb\\v2.3.6\\flexiconnectorsweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1006B8F-4E42-492B-A7B0-9264305EA997}|FlexicodeConnectors.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectorDetails.cshtml",
+              "DocumentMoniker": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorWeb\\V2.3.6\\FlexiconnectorsWeb\\Views\\Connectors\\ConnectorDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Connectors\\ConnectorDetails.cshtml",
+              "ToolTip": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorWeb\\V2.3.6\\FlexiconnectorsWeb\\Views\\Connectors\\ConnectorDetails.cshtml",
+              "RelativeToolTip": "Views\\Connectors\\ConnectorDetails.cshtml",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAAAKcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T09:34:48.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorWeb\\V2.3.6\\FlexiconnectorsWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Hema\\Apollo Hosted Source (AP \u0026 CIT)\\Label Changes latest source\\FlexiConnectorWeb\\V2.3.6\\FlexiconnectorsWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T12:47:36.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
